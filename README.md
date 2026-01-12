@@ -8,8 +8,8 @@ L'application  offre la possibilité de commande de repas en ligne facile et pra
 
 ## Technologies Utilisées
 - [React.js](https://reactjs.org/): Bibliothèque JavaScript pour la construction d'interfaces utilisateur réactives.
-- [Redux](https://redux.js.org/): Gestionnaire d'état prévisible pour les applications JavaScript.
-- [Sequelize](https://sequelize.org/): Bibliothèque JavaScript ORM pour l'interaction avec les bases de données relationnelles.
+- [Redux](https://redux.js.org/): Redux sert à gérer les données d’une application JavaScript de façon organisée. Redux sert à gérer les données partagées d’une application pour éviter     les incohérences.
+- [Sequelize](https://sequelize.org/): Bibliothèque JavaScript ORM (Object-Relational Mapping) pour l'interaction avec les bases de données relationnelles. Un ORM permet de parler à une base de données avec du code, sans écrire du SQL.
 - [PostgreSQL](https://www.postgresql.org/): Système de gestion de base de données relationnelle.
 - [Heroku](https://www.heroku.com/): Plateforme en tant que service (PaaS) pour le déploiement et la gestion d'applications en ligne.
 - Cryptage des mots de passe : Utilisé pour sécuriser les mots de passe des utilisateurs.
@@ -29,8 +29,3 @@ L'application  offre la possibilité de commande de repas en ligne facile et pra
 ## Auteurs
 - Stefan Arvanitis
 
-## Licence
-Ce projet est sous licence [insérez la licence que vous avez choisie, par exemple MIT, GNU, etc.]
-
----
-Pour toute question ou assistance, veuillez me contacter à [stefan.arvanitis@yahoo.fr].
